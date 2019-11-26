@@ -13,5 +13,13 @@ class Index extends CI_Controller
 	public function index()
 	{
 		$this->load->view('Import_View');
+		$this->load->view('teste');
+		$//this->load->view('teste');
+		//$this->load->view('teste');
+		//$this->load->view('teste');
+		//$this->load->view('teste');
+		//$this->load->view('teste');
+
+
 	}
 }
